@@ -11,11 +11,11 @@
 <br/>
 
 <!-- PROFILE VIEWS — komarev.com/ghpvc (most reliable, trusted by millions) -->
-<!-- Just replace YOUR_USERNAME. The counter starts automatically on first view. -->
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=7c3aed&labelColor=0d0d0d&label=PROFILE+VIEWS" alt="Profile Views"/>
+<!-- Just replace saswatt31. The counter starts automatically on first view. -->
+<img src="https://komarev.com/ghpvc/?username=saswatt31&style=for-the-badge&color=7c3aed&labelColor=0d0d0d&label=PROFILE+VIEWS" alt="Profile Views"/>
 &nbsp;
 <!-- FOLLOWERS — shields.io GitHub API badge, always live -->
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&color=a78bfa&labelColor=0d0d0d&label=FOLLOWERS" alt="Followers"/>
+<img src="https://img.shields.io/github/followers/saswatt31?style=for-the-badge&color=a78bfa&labelColor=0d0d0d&label=FOLLOWERS" alt="Followers"/>
 &nbsp;
 <img src="https://img.shields.io/badge/OPEN_TO-Collaborate-22c55e?style=for-the-badge&labelColor=0d0d0d" alt="Open to Collaborate"/>
 
@@ -118,23 +118,23 @@ focus    : AI/ML · Full-Stack · Systems
 
 ## 📈 GitHub Stats
 
-> ⚙️ **Replace `YOUR_USERNAME` in each URL below with your actual GitHub username.**
+> ⚙️ **Replace `saswatt31` in each URL below with your actual GitHub username.**
 > These are served by live APIs — they render correctly once pushed to your profile repo.
 
 <div align="center">
 
 <!-- Stats card — anuraghazra/github-readme-stats (most popular, actively maintained) -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&bg_color=0d0d0d&border_color=7c3aed&title_color=a78bfa&icon_color=a78bfa&text_color=e2e8f0&count_private=true&rank_icon=github" alt="GitHub Stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=saswatt31&show_icons=true&theme=tokyonight&bg_color=0d0d0d&border_color=7c3aed&title_color=a78bfa&icon_color=a78bfa&text_color=e2e8f0&count_private=true&rank_icon=github" alt="GitHub Stats"/>
 
 <!-- Top languages card -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&bg_color=0d0d0d&border_color=7c3aed&title_color=a78bfa&text_color=e2e8f0&langs_count=8" alt="Top Languages"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saswatt31&layout=compact&theme=tokyonight&bg_color=0d0d0d&border_color=7c3aed&title_color=a78bfa&text_color=e2e8f0&langs_count=8" alt="Top Languages"/>
 
 </div>
 
 <div align="center">
 
 <!-- Streak card — streak-stats.demolab.com (stable, maintained by DenverCoder1) -->
-<img width="68%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&background=0d0d0d&border=7c3aed&ring=a78bfa&fire=f472b6&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=94a3b8&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub Streak"/>
+<img width="68%" src="https://streak-stats.demolab.com?user=saswatt31&theme=tokyonight&background=0d0d0d&border=7c3aed&ring=a78bfa&fire=f472b6&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=94a3b8&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub Streak"/>
 
 </div>
 
@@ -145,9 +145,9 @@ focus    : AI/ML · Full-Stack · Systems
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/>
-    <img alt="contribution snake" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saswatt31/saswatt31/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saswatt31/saswatt31/output/github-contribution-grid-snake.svg"/>
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/saswatt31/saswatt31/output/github-contribution-grid-snake-dark.svg"/>
   </picture>
 </div>
 
