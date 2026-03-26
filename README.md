@@ -127,14 +127,16 @@ focus    : AI/ML · Full-Stack · Systems
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saswatt31&show_icons=true&theme=tokyonight&bg_color=0d0d0d&border_color=7c3aed&title_color=a78bfa&icon_color=a78bfa&text_color=e2e8f0&count_private=true&rank_icon=github" alt="GitHub Stats"/>
 
 <!-- Top languages card -->
-<img src="https://github-readme-stats.vercel.app/api?username=saswatt31&show_icons=true&theme=tokyonight" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saswatt31&layout=compact&theme=tokyonight&bg_color=0d0d0d&border_color=7c3aed&title_color=a78bfa&text_color=e2e8f0&langs_count=8" alt="Top Languages"/>
 
 </div>
 
 <div align="center">
 
 <!-- Streak card — streak-stats.demolab.com (stable, maintained by DenverCoder1) -->
+<img width="68%" src="https://streak-stats.demolab.com?user=saswatt31&theme=tokyonight&background=0d0d0d&border=7c3aed&ring=a78bfa&fire=f472b6&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=94a3b8&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub Streak"/>
 
+<img src="https://github-readme-stats.vercel.app/api?username=saswatt31&show_icons=true&theme=tokyonight" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saswatt31&layout=compact&theme=tokyonight" />
 
