@@ -5,39 +5,41 @@
 
 <!-- ANIMATED TYPING INTRO -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&width=600&lines=Hello+World%2C+I'm+Saswat+%F0%9F%91%8B;Student+%7C+Developer+%7C+Builder;One+commit+at+a+time+%F0%9F%9A%80;Learning+AI%2C+Dev%2C+%26+Everything+in+Between" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hello+World%2C+I'm+Saswat+%F0%9F%91%8B;Student+%7C+Developer+%7C+Builder;One+commit+at+a+time+%F0%9F%9A%80;Learning+AI%2C+Dev%2C+%26+Everything+in+Between" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- PROFILE VIEWS + FOLLOWERS BADGES -->
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=7c3aed&labelColor=0d0d0d" alt="Profile Views"/>
+<!-- PROFILE VIEWS — komarev.com/ghpvc (most reliable, trusted by millions) -->
+<!-- Just replace YOUR_USERNAME. The counter starts automatically on first view. -->
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=7c3aed&labelColor=0d0d0d&label=PROFILE+VIEWS" alt="Profile Views"/>
 &nbsp;
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&color=7c3aed&labelColor=0d0d0d&label=Followers" alt="Followers"/>
+<!-- FOLLOWERS — shields.io GitHub API badge, always live -->
+<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&color=a78bfa&labelColor=0d0d0d&label=FOLLOWERS" alt="Followers"/>
+&nbsp;
+<img src="https://img.shields.io/badge/OPEN_TO-Collaborate-22c55e?style=for-the-badge&labelColor=0d0d0d" alt="Open to Collaborate"/>
 
 </div>
 
 ---
 
 <!-- ABOUT ME SECTION -->
-<img align="right" width="340" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding gif" style="border-radius: 12px;"/>
+<img align="right" width="340" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding gif"/>
 
 ### 🌌 About Me
 
 ```yaml
-name: Saswat
-status: Student & Developer
-location: India 🇮🇳
-learning_mode: always_on
-build_mode: always_on
-distractions: off
+name     : Saswat
+status   : Student & Developer
+location : India 🇮🇳
+focus    : AI/ML · Full-Stack · Systems
 ```
 
 - 💻 Passionate about **development & problem solving**
 - 🚀 Deep interest in **AI, modern software & automation**
 - 🧠 I learn by **doing** — shipping real, useful projects
 - 🎯 Building a **solid profile** one project at a time
-- ✨ Believer in **small progress compounding** into power
+- 🌱 Currently exploring **LLMs, RAG, and DevOps**
 
 <br clear="right"/>
 
@@ -64,55 +66,75 @@ distractions: off
 ### Backend & Tools
 ![Node.js](https://img.shields.io/badge/Node.js-0d0d0d?style=for-the-badge&logo=node.js&logoColor=339933)
 ![Express](https://img.shields.io/badge/Express-0d0d0d?style=for-the-badge&logo=express&logoColor=ffffff)
+![FastAPI](https://img.shields.io/badge/FastAPI-0d0d0d?style=for-the-badge&logo=fastapi&logoColor=00C7B7)
 ![Git](https://img.shields.io/badge/Git-0d0d0d?style=for-the-badge&logo=git&logoColor=F05032)
-![REST APIs](https://img.shields.io/badge/REST_APIs-0d0d0d?style=for-the-badge&logo=fastapi&logoColor=009688)
+![REST APIs](https://img.shields.io/badge/REST_APIs-0d0d0d?style=for-the-badge&logo=api&logoColor=009688)
 
 ### AI / ML
 ![LLMs](https://img.shields.io/badge/LLMs-0d0d0d?style=for-the-badge&logo=openai&logoColor=a78bfa)
-![RAG](https://img.shields.io/badge/RAG-0d0d0d?style=for-the-badge&logo=langchain&logoColor=a78bfa)
-![AI APIs](https://img.shields.io/badge/AI_APIs-0d0d0d?style=for-the-badge&logo=anthropic&logoColor=a78bfa)
+![RAG](https://img.shields.io/badge/RAG_Pipelines-0d0d0d?style=for-the-badge&logo=databricks&logoColor=a78bfa)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-0d0d0d?style=for-the-badge&logo=huggingface&logoColor=FFD21E)
 ![Automation](https://img.shields.io/badge/Automation-0d0d0d?style=for-the-badge&logo=zapier&logoColor=FF4A00)
 
-### Cloud / DevOps Curiosity
+### Cloud / DevOps
 ![Linux](https://img.shields.io/badge/Linux-0d0d0d?style=for-the-badge&logo=linux&logoColor=FCC624)
 ![Docker](https://img.shields.io/badge/Docker-0d0d0d?style=for-the-badge&logo=docker&logoColor=2496ED)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-0d0d0d?style=for-the-badge&logo=githubactions&logoColor=2088FF)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0d0d0d?style=for-the-badge&logo=githubactions&logoColor=2088FF)
 
 </div>
 
 ---
 
-<!-- CURRENT VIBE / STATUS TERMINAL -->
-## 🧩 Current Vibe
+<!-- REDESIGNED PROFILE TERMINAL CARD -->
+## 🧩 Developer Card
 
-```txt
-╔══════════════════════════════════════════╗
-║         S A S W A T . E X E              ║
-╠══════════════════════════════════════════╣
-║  Learning mode    ██████████  ON  ✅     ║
-║  Build mode       ██████████  ON  ✅     ║
-║  Discipline       ██████████  ON  ✅     ║
-║  Distractions     ░░░░░░░░░░  OFF ❌     ║
-╠══════════════════════════════════════════╣
-║  Current focus:  AI/ML + DevOps basics   ║
-║  Daily goal:     Ship something real     ║
-╚══════════════════════════════════════════╝
+```
+┌─────────────────────────────────────────────────────────┐
+│                                                         │
+│   > whoami                                              │
+│   Saswat — CS student, builder, AI/ML enthusiast        │
+│                                                         │
+│   > cat interests.txt                                   │
+│   ├── AI · LLMs · RAG Pipelines                         │
+│   ├── Full-Stack Web Development                        │
+│   ├── Automation & Developer Tooling                    │
+│   └── Open Source & Clean Architecture                  │
+│                                                         │
+│   > cat currently_learning.txt                          │
+│   ├── Deep Learning (CNNs · LSTMs · Transformers)       │
+│   ├── DevOps Fundamentals & Docker                      │
+│   └── System Design Patterns                            │
+│                                                         │
+│   > uptime                                              │
+│   Build mode: active — Last pushed: recently            │
+│                                                         │
+│   > echo $MOTTO                                         │
+│   "Per aspera ad astra."                                │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-<!-- GITHUB STATS -->
 ## 📈 GitHub Stats
+
+> ⚙️ **Replace `YOUR_USERNAME` in each URL below with your actual GitHub username.**
+> These are served by live APIs — they render correctly once pushed to your profile repo.
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&bg_color=0d0d0d&border_color=7c3aed&title_color=a78bfa&icon_color=a78bfa&text_color=e2e8f0&hide_border=false&rank_icon=github" alt="GitHub Stats"/>
+<!-- Stats card — anuraghazra/github-readme-stats (most popular, actively maintained) -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&bg_color=0d0d0d&border_color=7c3aed&title_color=a78bfa&icon_color=a78bfa&text_color=e2e8f0&count_private=true&rank_icon=github" alt="GitHub Stats"/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight&background=0d0d0d&border=7c3aed&ring=a78bfa&fire=f472b6&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=94a3b8&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub Streak"/>
+<!-- Top languages card -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&bg_color=0d0d0d&border_color=7c3aed&title_color=a78bfa&text_color=e2e8f0&langs_count=8" alt="Top Languages"/>
 
-<br/>
+</div>
 
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&bg_color=0d0d0d&border_color=7c3aed&title_color=a78bfa&text_color=e2e8f0" alt="Top Languages"/>
+<div align="center">
+
+<!-- Streak card — streak-stats.demolab.com (stable, maintained by DenverCoder1) -->
+<img width="68%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&background=0d0d0d&border=7c3aed&ring=a78bfa&fire=f472b6&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=94a3b8&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub Streak"/>
 
 </div>
 
@@ -125,56 +147,72 @@ distractions: off
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/>
-    <img alt="github-snake" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
   </picture>
 </div>
 
-> ⚙️ To enable the snake animation, add [this GitHub Action](https://github.com/Platane/snk) to your profile repo.
+<details>
+<summary>⚙️ One-time snake setup (click to expand)</summary>
+
+Create `.github/workflows/snake.yml` in your profile repo and paste this:
+
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+Then go to **Actions → Generate Snake → Run workflow** once manually. It will regenerate every night after that.
+
+</details>
 
 ---
 
-<!-- WHAT I'M FOCUSED ON -->
 ## 📌 What I'm Focused On
 
 <table>
-  <tr>
-    <td>🔧</td>
-    <td><strong>Building strong coding fundamentals</strong></td>
-  </tr>
-  <tr>
-    <td>🧪</td>
-    <td><strong>Creating projects that actually solve problems</strong></td>
-  </tr>
-  <tr>
-    <td>🤖</td>
-    <td><strong>Learning AI/ML and LLM-based workflows</strong></td>
-  </tr>
-  <tr>
-    <td>☁️</td>
-    <td><strong>Understanding DevOps and deployment basics</strong></td>
-  </tr>
-  <tr>
-    <td>✨</td>
-    <td><strong>Making my GitHub look as good as my work</strong></td>
-  </tr>
+  <tr><td>🔧</td><td><strong>Building strong coding fundamentals</strong></td></tr>
+  <tr><td>🧪</td><td><strong>Creating projects that actually solve real problems</strong></td></tr>
+  <tr><td>🤖</td><td><strong>Learning AI/ML — Deep Learning, LLMs, RAG workflows</strong></td></tr>
+  <tr><td>☁️</td><td><strong>Understanding DevOps and deployment fundamentals</strong></td></tr>
+  <tr><td>✨</td><td><strong>Making my GitHub look as intentional as my work</strong></td></tr>
 </table>
 
 ---
 
-<!-- BUILDING TOWARD -->
 ## 🏆 Building Toward
 
 <div align="center">
 
 | 💼 Better Projects | 📅 Better Consistency | 🎤 Better Interviews |
 |:-:|:-:|:-:|
-| **🚪 Better Opportunities** | **🧬 Better Version of Myself** | |
+| **🚪 Better Opportunities** | **🧬 Better Version of Myself** | &nbsp; |
 
 </div>
 
 ---
 
-<!-- CONNECT -->
 ## 🤝 Connect With Me
 
 <div align="center">
@@ -189,9 +227,13 @@ distractions: off
 
 ---
 
-<!-- CLOSING NOTE -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=130&section=footer&text=Small+progress+every+day+compounds+into+something+powerful.&fontSize=14&fontColor=a78bfa&fontAlignY=55&animation=fadeIn" />
+### *"Per aspera ad astra."*
+##### *Through hardship, to the stars.* — Seneca, Letters to Lucilius, 1st century AD
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=130&section=footer&animation=fadeIn" />
 
 </div>
